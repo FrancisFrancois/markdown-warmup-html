@@ -1,0 +1,18 @@
+body { background-color: #FFE933;
+       font-family:'Courier New', Courier, monospace, sans-serif;
+     
+       
+} 
+
+table, td, tr {border-style: solid;
+               border-width: 2px;
+               border-color:#3328FF;
+               border-radius: 5px;
+}
+
+h1 {color: #3328FF;}
+h2 {color: #3328FF;}
+h3 {color: #3328FF;}
+
+
+
