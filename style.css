@@ -14,14 +14,10 @@ table, td, tr {
         border-radius: 5px;
 }
 
-h1 {
+h1,h2,h3,h4,h5,h6 {
        color: white;
-}
-h2 {
-       color: white;
-}
-h3 {
-       color: white;
+       font-size: 1.5em;
+
 }
 
 a:hover {
